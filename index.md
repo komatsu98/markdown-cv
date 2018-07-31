@@ -3,7 +3,7 @@ layout: cv
 title: Komatsu's CV
 ---
 # Hồ Anh Tiến
-_finding who i am_
+> _finding who i am_
 
 <div id="webaddress">
 <a href="dev@komatsu.yolo">dev@komatsu.yolo</a>
@@ -26,14 +26,3 @@ __Vo Nguyen Giap Gifted Highschool__
 `2016 - now`
 __HUST__
 * IT
-
-## Awards
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-
-
-<!-- ### Footer
-
-
-
-
