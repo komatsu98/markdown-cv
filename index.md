@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Komatsu's CV
 ---
 # Hồ Anh Tiến
 _finding who i am_
